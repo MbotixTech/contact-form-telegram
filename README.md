@@ -6,7 +6,7 @@ Formulir kontak berbasis web yang mengirimkan pesan langsung ke akun atau grup T
 - Form input untuk nama, email, subjek, dan pesan
 - Validasi input dasar (wajib diisi)
 - Kirim pesan ke Telegram melalui Bot
-- Tampilkan status pengiriman lewat `alert()` dan `console.log`
+- Tampilkan status pengiriman lewat `alert()`
 - Desain responsif & minimalis
 
 ## 🚀 Cara Penggunaan
@@ -41,4 +41,4 @@ Formulir kontak berbasis web yang mengirimkan pesan langsung ke akun atau grup T
   ```
 - Cari `chat.id` dari pesan yang dikirim
 
-Made with ❤️ by [Your Name](https://github.com/mbotixtech)
+Made with ❤️ by [MbotixTech](https://github.com/mbotixtech)
