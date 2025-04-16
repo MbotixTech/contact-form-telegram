@@ -1,4 +1,3 @@
-```markdown
 # 💬 Contact Form to Telegram
 
 Formulir kontak berbasis web yang mengirimkan pesan langsung ke akun atau grup Telegram menggunakan Bot API.
@@ -43,6 +42,3 @@ Formulir kontak berbasis web yang mengirimkan pesan langsung ke akun atau grup T
 - Cari `chat.id` dari pesan yang dikirim
 
 Made with ❤️ by [Your Name](https://github.com/mbotixtech)
-```
-
----
