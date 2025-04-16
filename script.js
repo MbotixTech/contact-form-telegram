@@ -13,8 +13,8 @@ if (contactForm) {
         submitBtn.textContent = 'Sending...';
         submitBtn.disabled = true;
 
-        const token = 'YOUR_BOT_TOKEN'; // Replace with your bot token
-        const chatId = 'YOUR_CHAT_ID'; // Replace with your chat ID Group
+        const token = 'YOUR_BOT_TOKEN'; // ← Replace with your Telegram bot token
+        const chatId = 'YOUR_CHAT_ID'; // ← Replace with your chat ID
         const telegramMessage = `Pesan dari ${name} (${email})\n\nSubjek: ${subject}\nPesan: ${message}`;
         
         fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
