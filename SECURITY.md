@@ -41,4 +41,3 @@ By using this project, you agree that:
 ---
 
 Thank you for helping make this project more secure. Your support and contributions are greatly appreciated. 🚀
-```
